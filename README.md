@@ -1,16 +1,24 @@
-## Hi there 👋
+Creating a **GitHub README** for an IT undergrad should showcase your skills, projects, and aspirations in a concise and visually appealing way. Here's a template to get you started:
 
-<!--
-**weeb999/weeb999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm [Piyush-gadiya]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **IT Undergraduate**  
+🌱 Currently exploring **[ Web Development, Data Science, etc.]**  
+💡 Passionate about **[coding, problem-solving, learning new technologies]**  
+
+---
+
+## 🚀 Skills & Tools  
+- **Programming Languages**: [ Python, Java, C++]  
+- **Frameworks/Technologies**: [ React, Django, Node.js]  
+- **Databases**: [ MySQL, MongoDB]  
+- **Other Skills**: [ Git, REST APIs]  
+
+## 📫 Let's Connect  
+- [LinkedIn](https://www.linkedin.com/in/piyush-gadiya-a422252a8/)  
+- [Email](piyushgadiya123@gmail.com)  
+
+
+
