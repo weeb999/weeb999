@@ -1,28 +1,59 @@
-Creating a **GitHub README** for an IT undergrad should showcase your skills, projects, and aspirations in a concise and visually appealing way. Here's a template to get you started:
+# 👋 Hi, I'm Piyush Gadiya
+![AI_Systems_Engineer_Profile](https://github.com/user-attachments/assets/ea0d5335-59b5-4367-b880-bac77f414461)
+
+💼 **AI Systems Engineer @ PHN Technology, Pune**
+🤖 Building end-to-end **ML Pipelines, LLM Systems & Full-Stack Automation Tools**
+🚀 Passionate about **AI, DevOps, NLP, and Production-Grade ML Solutions**
 
 ---
 
-# 👋 Hi, I'm [Piyush-gadiya]  
+## 🚀 Skills & Tools
 
-
-
-![IT_Undergraduate_Coding_Profile](https://github.com/user-attachments/assets/ea0d5335-59b5-4367-b880-bac77f414461)
-
-🎓 **IT Undergraduate**  
-🌱 Currently exploring **[ Web Development, Data Science, etc.]**  
-💡 Passionate about **[coding, problem-solving, learning new technologies]**  
+- **ML/DL**: PyTorch, TensorFlow, Scikit-Learn, HuggingFace, YOLO, OpenCV, spaCy
+- **NLP/LLMs**: Claude API, GPT, LLaMA, RAG, BART, Prompt Engineering
+- **Cloud/DevOps**: AWS (EC2, S3, Lambda), Docker, Kubernetes, Jenkins, GitHub Actions
+- **Programming**: Python, JavaScript, Java, SQL
+- **Frameworks**: FastAPI, Flask, React, Streamlit, Spring MVC, WebSockets
+- **Databases**: PostgreSQL, MongoDB, MySQL, NoSQL
+- **Other Tools**: n8n, Kafka, Prometheus, Grafana, Twilio, Postman, JIRA
 
 ---
 
-## 🚀 Skills & Tools  
-- **Programming Languages**: [ Python, Java, C++]  
-- **Frameworks/Technologies**: [ React, Django, Node.js]  
-- **Databases**: [ MySQL, MongoDB]  
-- **Other Skills**: [ Git, REST APIs]  
+## 🏗️ Featured Projects
 
-## 📫 Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/piyush-gadiya-a422252a8/)  
-- [Email](piyushgadiya123@gmail.com)  
+### 🔹 AI-Powered Lead Intelligence Platform
+> WhatsApp bot (Twilio + n8n) + Python/Scikit-learn intent classification
+> FastAPI backend + PostgreSQL CRM + React dashboard
+> Deployed via Docker + GitHub Actions CI/CD on AWS EC2
+> ✅ Reduced lead response time by **60%**
 
+### 🔹 Autonomous DevOps Monitoring & Alert System
+> Self-healing infrastructure monitor using Python, Kafka & Prometheus
+> Anomaly detection across 10+ microservices + Grafana dashboards
+> n8n webhooks → auto Slack/email alerts
+> ✅ Reduced alert response time by **40%**
 
+---
 
+## 📜 Certifications
+
+- 🏅 Udemy Java Master
+- 🏅 Jenkins Automator
+- 🏅 HackerRank Java Certified
+- 🏅 IBM DevOps
+
+---
+
+## 📄 Research
+
+- 📝 **Skin Cancer Detection Using Machine Learning**
+  Automated early detection & classification system to assist dermatologists
+  using ML techniques for improved diagnostic accuracy and speed.
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/piyush-gadiya-a42225228)
+- [Email](mailto:piyushgadiya123@gmail.com)
+- 📞 8412015049
