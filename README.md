@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Piyush Gadiya
-![AI_Systems_Engineer_Profile](https://github.com/user-attachments/assets/ea0d5335-59b5-4367-b880-bac77f414461)
 
 💼 **AI Systems Engineer @ PHN Technology, Pune**
 🤖 Building end-to-end **ML Pipelines, LLM Systems & Full-Stack Automation Tools**
