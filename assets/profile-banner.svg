@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Piyush Gadiya</title><desc id="desc">AI systems, automation and software engineering.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1423"/><stop offset="1" stop-color="#172e45"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#6a9eb1" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1280" height="360" rx="18" fill="url(#bg)"/><rect width="1280" height="360" rx="18" fill="url(#grid)"/>
+<path d="M0 359H1280" stroke="#68d6cf" stroke-width="3"/>
+<rect x="55" y="49" width="158" height="29" rx="5" fill="#68d6cf" fill-opacity=".1" stroke="#68d6cf" stroke-opacity=".35"/>
+<circle cx="72" cy="64" r="4" fill="#68d6cf"/>
+<text x="86" y="69" fill="#9de5df" font-family="Consolas,monospace" font-size="12" letter-spacing="1.8">WEEB999 / BUILD</text>
+<text x="53" y="154" fill="#f5eddf" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="62" letter-spacing="-2">Piyush Gadiya<tspan fill="#68d6cf">.</tspan></text>
+<text x="57" y="201" fill="#acc2d3" font-family="Segoe UI,Arial,sans-serif" font-size="22">AI systems. Automation. Software engineering.</text>
+<path d="M57 231H660" stroke="#607d93" stroke-opacity=".35"/>
+<text x="57" y="272" fill="#68d6cf" font-family="Consolas,monospace" font-size="16">idea → implement → test → ship</text>
+<g fill="none" stroke="#68d6cf" stroke-width="2" stroke-opacity=".5"><path d="M846 106L960 180L846 254M960 180L1103 101M960 180L1103 259M1103 101V259"/><path d="M846 106V254M846 106L1103 101M846 254L1103 259" stroke-opacity=".2"/></g>
+<g fill="#152b40" stroke="#68d6cf" stroke-width="2"><rect x="818" y="78" width="56" height="56" rx="13"/><rect x="818" y="226" width="56" height="56" rx="13"/><rect x="926" y="146" width="68" height="68" rx="17"/><rect x="1075" y="73" width="56" height="56" rx="13"/><rect x="1075" y="231" width="56" height="56" rx="13"/></g>
+<g fill="#f5eddf" font-family="Consolas,monospace" font-size="18" text-anchor="middle"><text x="846" y="113">AI</text><text x="846" y="261">API</text><text x="960" y="187">&lt;/&gt;</text><text x="1103" y="108">WEB</text><text x="1103" y="266">OPS</text></g>
+<text x="57" y="325" fill="#7894aa" font-family="Consolas,monospace" font-size="12" letter-spacing="1">PYTHON / LLM APPLICATIONS / CLOUD &amp; OBSERVABILITY</text>
+</svg>
