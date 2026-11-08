@@ -8,15 +8,33 @@
 
 ### Engineering ideas into working systems.
 
-I'm **Piyush Gadiya**, an **AI Systems Engineer at PHN Technology, Pune**. I build across machine learning, LLM applications, backend services, and automation—with an interest in how those pieces work together as usable products.
+I'm **Piyush Gadiya**, a software developer and founder of **[Nexosk](https://nexosk.in/)** and **[Edvanta Labs](https://edvantalabs.in/)**, based in Pune. My hands-on background spans Java development, web development, machine learning projects, and ML training.
 
-My projects span browser-based video editing, document generation, event-driven monitoring, and full-stack applications. I enjoy taking an idea through implementation, testing, and deployment.
+I combine software development with product direction, technical communication, and team leadership. Previously, I worked as an **AI Systems Engineer at PHN Technology**.
 
 ```text
-focus     →  AI systems · LLM applications · developer tooling
-build     →  Python services · web interfaces · automation workflows
-operate   →  containers · CI/CD · metrics and observability
+code      →  Java · Python · web development · ML applications
+lead      →  product direction · requirements · team coordination
+build     →  practical software · technical learning programs
 ```
+
+### Companies I founded
+
+**[Nexosk](https://nexosk.in/)** · Founder — Software Products & Delivery · August 2026–Present  
+Software products and technology services for business workflows. I lead client discovery, product direction, technical solution discussions, and delivery coordination; engineering implementation is delivered by our team.
+
+| Team-built product | Purpose |
+| :--- | :--- |
+| **[FirmVault](https://firmvault.app/)** | WhatsApp-first document organization and retrieval for professional firms. |
+| **[AI Reputation Manager](https://app.nexosk.in/)** | Customer feedback collection and a customer-controlled path to Google Reviews. |
+| **[SanjeevniAI](https://sanjeevniai.com/)** | Clinic practice management covering appointments, queues, patient records, consultations, prescriptions, lab workflows, billing, and backups. |
+
+**[Edvanta Labs](https://edvantalabs.in/)** · Founder — Technical Programs & Institutional Partnerships · August 2026–Present  
+Practical learning programs, innovation labs, and faculty capability development. I lead institutional partnerships, requirement discussions, trainer recruitment, and program coordination. My personal development and ML training experience informs technical presentations and program discussions; specialist delivery is handled by our trainers and team.
+
+### Software portfolio
+
+The repositories below showcase my project work, separately from our company product portfolio.
 
 ### Selected work
 
