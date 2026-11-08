@@ -20,7 +20,8 @@ build     →  practical software · technical learning programs
 
 ### Companies I founded
 
-**[Nexosk](https://nexosk.in/)** · Founder — Software Products & Delivery · August 2026–Present  
+**[Nexosk](https://nexosk.in/)** · Founder — Software Products & Delivery · August 2026–Present
+
 Software products and technology services for business workflows. I lead client discovery, product direction, technical solution discussions, and delivery coordination; engineering implementation is delivered by our team.
 
 | Team-built product | Purpose |
@@ -29,7 +30,8 @@ Software products and technology services for business workflows. I lead client 
 | **[AI Reputation Manager](https://app.nexosk.in/)** | Customer feedback collection and a customer-controlled path to Google Reviews. |
 | **[SanjeevniAI](https://sanjeevniai.com/)** | Clinic practice management covering appointments, queues, patient records, consultations, prescriptions, lab workflows, billing, and backups. |
 
-**[Edvanta Labs](https://edvantalabs.in/)** · Founder — Technical Programs & Institutional Partnerships · August 2026–Present  
+**[Edvanta Labs](https://edvantalabs.in/)** · Founder — Technical Programs & Institutional Partnerships · August 2026–Present
+
 Practical learning programs, innovation labs, and faculty capability development. I lead institutional partnerships, requirement discussions, trainer recruitment, and program coordination. My personal development and ML training experience informs technical presentations and program discussions; specialist delivery is handled by our trainers and team.
 
 ### Software portfolio
